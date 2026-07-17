@@ -1,6 +1,6 @@
 # Riverbed-Clogging-Classification
 
-Python scripts supporting the statistical analyses presented in:
+Reproducible Python workflows accompanying the MultiPAC framework for riverbed clogging assessment.
 
 **Aybar-Galdos et al.**
 *Towards the identification of reference values for riverbed clogging using selected abiotic parameters and standard indicators of the European Water Framework Directive*
