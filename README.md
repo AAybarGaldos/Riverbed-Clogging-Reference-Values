@@ -1,4 +1,4 @@
-# Riverbed-Clogging-Classification
+# Riverbed-Clogging-Reference-Values
 
 Reproducible Python workflows accompanying the MultiPAC framework for riverbed clogging assessment.
 
