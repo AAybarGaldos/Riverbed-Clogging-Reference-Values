@@ -21,7 +21,7 @@ variables = [
     "kf_M", "kf_oIP", "kf_uIP", "kf_15-20",
     "d16", "d84", "dm",
     "FS < 0.5", "FS < 1.0", "FS < 2.0",
-    "Fr_I", "S_I", "sigma_geo", "n_cal",
+    "Fr_I", "S_I", "σ_geo", "n_cal",
     "ES", "BMI", "GD", "MH", "BS",
 ]
 
