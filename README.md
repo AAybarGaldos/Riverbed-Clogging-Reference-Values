@@ -7,20 +7,17 @@ Reproducible Python workflows accompanying the MultiPAC framework for riverbed c
 
 ## Repository structure
 
-```
-Riverbed-Clogging-Classification
-│
-├── scripts/
-│   ├── 01_spearman_analysis.py
-│   └── 02_pca_analysis.py
+```text
+Riverbed-Clogging-Reference-Values
 │
 ├── data/
+│   └── README.md
 │
-├── results/
-│
-├── figures/
-│
-└── requirements.txt
+├── 01_spearman_analysis.py
+├── 02_pca_analysis.py
+├── requirements.txt
+├── LICENSE
+└── README.md
 ```
 
 ## Statistical analyses
